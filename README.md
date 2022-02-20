@@ -3,8 +3,10 @@ In this project, I will do some exploratory data analysis on a COVID-19 dataset 
 
 In this project, I use SQL to query COVID-19 data in order to easily visualize it and make a dashboard in Tableau. 
 
-__TO DO__:
-    - 
+__UPDATES__: 
+- EDA has been finished 
+- Create temp tables and views in SQL to transfer over to Tableau
+- Visualizations and dashboard in Tableau coming 
 
 Data was extracted from [HERE](https://ourworldindata.org/covid-deaths). BibTeX citation below...
 ```
